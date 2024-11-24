@@ -47,6 +47,7 @@ Estoy mejorando mis habilidades como desarrollador web, enfrentando nuevos retos
   </div>
 </div>
 
+
 ### 📚 Proyectos Recientes:
 - Aplicación de Tareas (To-Do List)**: Creada con React, donde puedes agregar, editar y eliminar tareas. Conozco la importancia de un buen diseño de UX.
 
