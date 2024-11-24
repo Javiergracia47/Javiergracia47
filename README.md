@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola! Soy Javier Gracia</h1>
 <h3 align="center">Estudiante en 4Geeks Academy - Desarrollador Web Full Stack</h3>
 
@@ -75,4 +74,5 @@ Me encanta resolver problemas, y la programación me permite hacerlo constanteme
 ---
 
 <h3 align="center">¡Gracias por visitar mi perfil!</h3>
+
 
