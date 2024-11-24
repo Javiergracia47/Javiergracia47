@@ -6,16 +6,15 @@
   <img src="https://via.placeholder.com/200x200.png?text=Persona+Programando" alt="Persona programando" width="200"/>
 </p>
 
-### 🌍 Ubicación:
+### 🌍 Sobre mi:
 Actualmente, estoy desarrollando mis habilidades como desarrollador web y construyendo proyectos emocionantes para mejorar mis conocimientos.
+ademas me encanta resolver problemas, y la programación me permite hacerlo constantemente. No me detengo hasta encontrar la solución. Mi pasión por el código y mi deseo de aprender me han llevado a emprender este camino en el mundo del desarrollo web.
 
 ### 🛠 Tecnologías y Herramientas:
 - **Lenguajes**: JavaScript, HTML5, CSS3, React.js
 - **Herramientas**: Git, GitHub, Webpack, Bootstrap
 - **Otros**: REST APIs
-
-### 🎯 ¿Por qué la programación?
-Me encanta resolver problemas, y la programación me permite hacerlo constantemente. No me detengo hasta encontrar la solución. Mi pasión por el código y mi deseo de aprender me han llevado a emprender este camino en el mundo del desarrollo web.
+- 
 
 ### 📚 Proyectos Recientes:
  - Aplicación de Tareas (To-Do List)**: Creada con React, donde puedes agregar, editar y eliminar tareas. Conozco la importancia de un buen diseño de UX.
