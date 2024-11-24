@@ -16,7 +16,7 @@ Actualmente, estoy desarrollando mis habilidades como desarrollador web y constr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" style="text-decoration: none; margin-right: 50px; display: inline-block;">
-    <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Bootstrap" width="100" height="100"/>
+    <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Bootstrap" width="150" height="100"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none; margin-right: 50px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="100"/>
