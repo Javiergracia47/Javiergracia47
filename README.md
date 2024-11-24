@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Reemplaza el siguiente enlace con una imagen de una persona programando -->
-  <img src="https://via.placeholder.com/200x200.png?text=Persona+Programando" alt="Persona programando" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3271/3271001.png" alt="Persona programando" width="200"/>
 </p>
 
 ### 🌍 Ubicación:
