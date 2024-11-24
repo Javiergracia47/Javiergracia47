@@ -10,7 +10,7 @@
 Estoy mejorando mis habilidades como desarrollador web, enfrentando nuevos retos que me ayudan a crecer. La programación me encanta porque me permite resolver problemas todo el tiempo, y siempre busco la mejor solución. Mi ganas de aprender me motivan a seguir avanzando en el mundo del desarrollo web.
 
 ### 🛠 Tecnologías y Herramientas:
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <!-- JavaScript -->
   <div style="text-decoration: none; margin-right: 50px; display: inline-block;">
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
