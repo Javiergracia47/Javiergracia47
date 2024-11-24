@@ -6,8 +6,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/3271/3271001.png" alt="Persona programando" width="200"/>
 </p>
 
-### 🌍 Ubicación:
-Actualmente, estoy desarrollando mis habilidades como desarrollador web y construyendo proyectos emocionantes para mejorar mis conocimientos.
+###  🎯 Sobre mi:
+Estoy mejorando mis habilidades como desarrollador web, enfrentando nuevos retos que me ayudan a crecer. La programación me encanta porque me permite resolver problemas todo el tiempo, y siempre busco la mejor solución. Mi ganas de aprender me motivan a seguir avanzando en el mundo del desarrollo web.
 
 ### 🛠 Tecnologías y Herramientas:
 <p align="center">
@@ -39,12 +39,8 @@ Actualmente, estoy desarrollando mis habilidades como desarrollador web y constr
   </a>
 </p>
 
-### 🎯 ¿Por qué la programación?
-Me encanta resolver problemas, y la programación me permite hacerlo constantemente. No me detengo hasta encontrar la solución. Mi pasión por el código y mi deseo de aprender me han llevado a emprender este camino en el mundo del desarrollo web.
-
 ### 📚 Proyectos Recientes:
-1. **Aplicación de Tareas (To-Do List)**: Creada con React, donde puedes agregar, editar y eliminar tareas. Conozco la importancia de un buen diseño de UX.
-2. **E-Commerce**: Proyecto de tienda online con funcionalidad de carrito, pago y gestión de productos usando Express y MongoDB.
+- Aplicación de Tareas (To-Do List)**: Creada con React, donde puedes agregar, editar y eliminar tareas. Conozco la importancia de un buen diseño de UX.
 
 ### 📬 Conéctate conmigo:
 <p align="left">
@@ -56,16 +52,6 @@ Me encanta resolver problemas, y la programación me permite hacerlo constanteme
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40"/>
   </a>
 </p>
-
-### 📊 Estadísticas:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiergracia47&show_icons=true&locale=es&layout=compact" alt="Lenguajes más usados" width="300"/>
-</p>
-<p> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javiergracia47&show_icons=true&locale=es" alt="Estadísticas de GitHub" width="300"/>
-</p>
-
----
 
 <h3 align="center">¡Gracias por visitar mi perfil!</h3>
 
