@@ -44,12 +44,11 @@ Estoy mejorando mis habilidades como desarrollador web, enfrentando nuevos retos
 
 ### 📬 Conéctate conmigo:
 <p align="left">
-  <!-- Separamos los iconos de LinkedIn y GitHub -->
-  <a href="https://www.linkedin.com/in/javier-a-gracia-v" target="_blank" style="text-decoration: none; margin-right: 50px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  <a href="https://www.linkedin.com/in/javier-a-gracia-v" target="_blank" style="text-decoration: none; margin-right: 90px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60"/>
   </a>
   <a href="https://github.com/javiergracia47" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="60"/>
   </a>
 </p>
 
