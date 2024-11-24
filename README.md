@@ -11,22 +11,40 @@ Estoy mejorando mis habilidades como desarrollador web, enfrentando nuevos retos
 
 ### 🛠 Tecnologías y Herramientas:
 <p align="center">
-  <!-- Primera fila de tecnologías y herramientas con sus logos -->
-  <div href="https://developer.mozilla.org/es/docs/Web/JavaScript"  style="text-decoration: none; margin-right: 50px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="100" height="100"/>
+  <!-- JavaScript -->
+  <div style="text-decoration: none; margin-right: 50px; display: inline-block;">
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="100" height="100"/>
+    </a>
   </div>
-  <a href="https://getbootstrap.com" target="_blank" style="text-decoration: none; margin-right: 50px; display: inline-block;">
-    <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Bootstrap" width="110" height="110"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none; margin-right: 50px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="100"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none; margin-right: 50px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="100" height="100"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/>
-  </a>
+
+  <!-- Bootstrap -->
+  <div style="text-decoration: none; margin-right: 50px; display: inline-block;">
+    <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="Bootstrap" width="110" height="110"/>
+    </a>
+  </div>
+
+  <!-- HTML5 -->
+  <div style="text-decoration: none; margin-right: 50px; display: inline-block;">
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="100"/>
+    </a>
+  </div>
+
+  <!-- CSS3 -->
+  <div style="text-decoration: none; margin-right: 50px; display: inline-block;">
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="100" height="100"/>
+    </a>
+  </div>
+
+  <!-- React -->
+  <div style="text-decoration: none; display: inline-block;">
+    <a href="https://reactjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/>
+    </a>
+  </div>
 </p>
 
 <p align="center">
