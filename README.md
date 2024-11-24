@@ -1,4 +1,4 @@
-##Hola👋
+
 
 <h1 align="center">Hola! mi nombre es Javier Gracia</h1>
 <h3 align="center">¡Actualmente estoy estudiando en 4geeks Academy!</h3>
